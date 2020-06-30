@@ -1,6 +1,6 @@
 # Material Design Color System CSS
 
-I love the Material Design Color System, but I hate typing the hexadecimal codes. I therefore decided to bite the bullet and spend some time converting the whole color system into CSS variables.
+I love the [Material Design Color System](https://material.io/design/color/the-color-system.html), but I hate typing the hexadecimal codes. I therefore decided to bite the bullet and spend some time converting the whole color system into CSS variables.
 
 ## Example
 Check out the attached example.
@@ -16,4 +16,4 @@ Place the code at the head of your CSS file and replace your CSS colors like thi
 `border:1px solid var(--gray-600);`
 
 ## Top-Tip
-I use VS Code and it gives a nice preview swatch of what the color actually looks like.
+I use VS Code and it gives a nice preview of the color.
