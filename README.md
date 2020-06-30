@@ -1,18 +1,16 @@
 # Material Design Color System CSS
 
-I love the Material Design Color System, but I hate typing the hexadecimal codes. 
-
-I therefore decided to bite the bullet and spend some time converting the whole color system into CSS variables.
+I love the Material Design Color System, but I hate typing the hexadecimal codes. I therefore decided to bite the bullet and spend some time converting the whole color system into CSS variables.
 
 ## Example
 Check out the attached example.
 
 ## Usage
 
-Place the code at the head of your CSS file and replace your CSS colors live this:
+Place the code at the head of your CSS file and replace your CSS colors like this:
 
 ### Old CSS Code
-`border:1px solid #666666;`
+`border:1px solid #757575;`
 
 ### New CSS Code
 `border:1px solid var(--gray-600);`
